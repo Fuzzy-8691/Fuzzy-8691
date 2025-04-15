@@ -12,4 +12,5 @@
  - Mentorship and Collaboration  
 
  ## My projects: 
- - [need to find one]
+ - Majo's Operating System
+ - 
