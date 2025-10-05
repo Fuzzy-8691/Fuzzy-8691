@@ -4,7 +4,7 @@
 🌱 I’m currently learning programming. 
 💞️ I’m looking to collaborate on any project where I am being mentored. 
  📫 How to reach me can reach me via LinkedIn: https://www.linkedin.com/in/mrchrisdavis/
-⚡ Fun fact: multilingual (english, french, and ASL)
+⚡ Fun fact: multilingual
 
  ## Skills and Interest
  - Business and Technology
@@ -12,5 +12,5 @@
  - Mentorship and Collaboration  
 
  ## My projects: 
- - Majo's Operating System
+ - BIVIG'S Organization
 
